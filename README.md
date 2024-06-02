@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pontus Norup
 - 👀 I’m interested in Boxing
-- 🌱 I’m currently learning TypeScript!
+- 🌱 I’m currently learning React Native!
 - 💞️ I’m looking for projects to devour!
 - 📫 You can reach me on LinkedIn :)
 
