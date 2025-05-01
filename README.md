@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pontus Norup
-- 👀 I’m interested in Boxing
-- 🌱 I’m currently learning React Native!
-- 💞️ I’m looking for projects to devour!
+- 👀 I’m interested in Climbing
+- 🌱 I’m currently learning gitlab ci/cd!
 - 📫 You can reach me on LinkedIn :)
 
 <!---
